@@ -1,0 +1,9 @@
+Engineer = 152 -> 1
+Healthcare = 279 -> 2
+Lawyer = 112 -> 3
+Entertainment = 183 -> 4
+Artist = 491 -> 5
+Doctor = 128 -> 6
+Homemaker = 43 -> 7
+Executive = 114 -> 8
+Marketing = 68 -> 9
